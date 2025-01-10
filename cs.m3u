@@ -1,10 +1,10 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="LOVENATURE4K" tvg-name="LOVENATURE4K" tvg-logo="https://epg.iill.top/logo/LoveNature4K.png" group-title="•4K「IPV4」",Love Nature 4K「自然」
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="Loupe" tvg-name="Loupe" tvg-logo="https://epg.iill.top/logo/Loupe4K.png" group-title="•4K「IPV4」",Loupe 4K「视觉」
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/FashionTV.png" group-title="•4K「IPV4」",Fashion 4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="•4K「IPV6」",纯享·4K「IPV6」
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="•4K「IPV6」",华数·4K「IPV6」
@@ -13,7 +13,6 @@ http://[2409:8087:5e00:24::20]:6610/000000001000/1/6000000003000004748/index.m3u
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="•4K「IPV6」",CCTV 16 奥林匹克·4K「IPV6」
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=YanG-1989
-
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•央视「IPV6」",CCTV1 综合「IPV6」
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265001/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="•央视「IPV6」",CCTV2 财经「IPV6」
@@ -58,7 +57,6 @@ http://[2409:8087:5e00:24::20]:6610/000000001000/1/7114647837765104058/index.m3u
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.iill.top/logo/CETV4.png" group-title="•央视「IPV6」",CETV 4 中国教育「IPV6」
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=YanG-1989
-
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.iill.top/logo/湖南卫视.png" group-title="•卫视「IPV6」",湖南卫视「IPV6」
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265024/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265024&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" group-title="•卫视「IPV6」",浙江卫视「IPV6」
@@ -113,7 +111,6 @@ http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000031121/index.m3u
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000006000040015/index.m3u8?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.iill.top/logo/三沙卫视.png" group-title="•卫视「IPV6」",三沙卫视「IPV6」
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000011000288016/index.m3u8?channel-id=bestzb&Contentid=5000000011000288016&livemode=1&stbId=YanG-1989
-
 #EXTINF:-1 tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://epg.iill.top/logo/iHOT爱喜剧.png" group-title="•iHOT「IPV6」",iHOT 爱喜剧「IPV6」
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000004000000032/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000032&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="爱科幻" tvg-name="爱科幻" tvg-logo="https://epg.iill.top/logo/iHOT爱科幻.png" group-title="•iHOT「IPV6」",iHOT 爱科幻「IPV6」
@@ -144,7 +141,6 @@ http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000004000000058/index.m3u
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000004000000059/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000059&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://epg.iill.top/logo/iHOT爱体育.png" group-title="•iHOT「IPV6」",iHOT 爱体育「IPV6」
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000004000000060/index.m3u8?&channel-id=hnbblive&Contentid=2000000004000000060&livemode=1&stbId=YanG-1989
-
 #EXTINF:-1 tvg-id="哒啵电竞" tvg-name="哒啵电竞" tvg-logo="https://epg.iill.top/logo/NewTV哒啵电竞.png" group-title="•NewTV「IPV6」",NewTV 哒啵电竞「IPV6」
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000006000032327/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032327&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://epg.iill.top/logo/NewTV哒啵赛事.png" group-title="•NewTV「IPV6」",NewTV 哒啵赛事「IPV6」
@@ -203,7 +199,6 @@ http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000004000013730/index.m3u
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/2000000003000000007/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="明星大片" tvg-name="明星大片" tvg-logo="https://epg.iill.top/logo/NewTV明星大片.png" group-title="•NewTV「IPV6」",NewTV 明星大片「IPV6」
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=YanG-1989
-
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.iill.top/logo/中国天气.png" group-title="•数字「IPV6」",中国天气「IPV6」
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.iill.top/logo/家庭影院.png" group-title="•数字「IPV6」",CHC 家庭影院「IPV6」
@@ -318,7 +313,6 @@ http://[2409:8087:5e00:24::20]:6610/000000001000/1/6000000003000001569/index.m3u
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/6000000003000028434/index.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="YanG-1989" tvg-name="YanG-1989" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•数字「IPV6」",英雄联盟音乐节「IPV6」
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/8978605063318475207/index.m3u8?channel-id=ystenlive&Contentid=8978605063318475207&livemode=1&stbId=YanG-1989
-
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV6」",晴彩广场舞「IPV6」
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV6」",晴彩少年「IPV6」
@@ -405,13 +399,12 @@ http://[2409:8087:5e00:24::20]:6610/000000001000/1/3000000020000011520/index.m3u
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「IPV6」",咪咕直播 𝟛𝟠「IPV6」
 http://[2409:8087:5e00:24::20]:6610/000000001000/1/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
-
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」热门赛事
 http://dns.yiandrive.com:15907/bilibili/10
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」CS 2
 https://live.iill.top/bilibili/21622811
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」CS 2
-https://live.iill.top/huya/483917
+https://live.iill.top/huya/48391
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」英雄联盟
 https://live.iill.top/bilibili/6
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」英雄联盟 𝟙
@@ -447,7 +440,7 @@ https://live.iill.top/douyu/100
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」和平精英
 https://live.iill.top/huya/660006
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」和平精英
-https://live.iill.top/douyu/999
+https://live.iill.top/douyu/99
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」金铲铲之战
 https://live.iill.top/huya/660579
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」金铲铲之战
