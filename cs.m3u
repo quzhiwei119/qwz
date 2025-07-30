@@ -42,3 +42,95 @@ https://stream.iptv-search.com/main.php?id=CCTV15&t=1752825547&token=7bb5123bc59
 https://stream.iptv-search.com/main.php?id=CCTV16&t=1752825547&token=7c4ea1773d5098eae52a1c50df1f7e8c
 #EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/CCTV17.png",CCTV17
 https://stream.iptv-search.com/main.php?id=CCTV17&t=1752825547&token=27e3f6219322a22563ba9b5f07968d3b
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Sansha.png",三沙卫视
+https://stream.iptv-search.com/main.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&t=1752825547&token=7e361f061f82a5377329e4437eec630a
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Dongnan.png",东南卫视
+https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&t=1752825547&token=13358e07aa49256aa31e17f499cc2b0f
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Dongfang.png",东方卫视
+https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&t=1752825547&token=a8dbde531a62cc919197b2bfec74daef
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Yunnan.png",云南卫视
+https://stream.iptv-search.com/main.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86&t=1752825547&token=be530ef3b5d55a400a049252af7fe11d
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/BLTV.png",人间卫视
+https://stream.iptv-search.com/main.php?id=%E4%BA%BA%E9%97%B4%E5%8D%AB%E8%A7%86&t=1752825547&token=a3e89203038b21475b5df035f7213a2a
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Bingtuan.png",兵团卫视
+https://stream.iptv-search.com/main.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&t=1752825547&token=5f1e1963404479bc6c5bb58c92112f0a
+#EXTINF:-1  group-title="mylist" tvg-logo="",凤凰卫视
+https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86&t=1752825547&token=de01821eb3c9901ade4b6b5c5208205e
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Beijing.png",北京卫视
+https://stream.iptv-search.com/main.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&t=1752825547&token=45b37ac04d411302f5177b7ad3de7ed4
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/weishi1.png",卫视中文台
+https://stream.iptv-search.com/main.php?id=%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87%E5%8F%B0&t=1752825547&token=e47e8c11c40f9d9d333a1403f3defba5
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/weishi2.png",卫视电影台
+https://stream.iptv-search.com/main.php?id=%E5%8D%AB%E8%A7%86%E7%94%B5%E5%BD%B1%E5%8F%B0&t=1752825547&token=b903a43283f43576efb8333104be781d
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Jilin.png",吉林卫视
+https://stream.iptv-search.com/main.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&t=1752825547&token=2f7da6cfd15705425c9a54ef5b33626d
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Sichuan.png",四川卫视
+https://stream.iptv-search.com/main.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&t=1752825547&token=37af52b1c197be93bc86a4876103a6a4
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Tianjin.png",天津卫视
+https://stream.iptv-search.com/main.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&t=1752825547&token=83310017391ce739c4359a807d14e61d
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Anduo.png",安多卫视
+https://stream.iptv-search.com/main.php?id=%E5%AE%89%E5%A4%9A%E5%8D%AB%E8%A7%86&t=1752825547&token=6c61b240dd8dade13ad1c65dbc01414a
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Anhui.png",安徽卫视
+https://stream.iptv-search.com/main.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86&t=1752825547&token=beeb2a88667aec532596b149316a0b86
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Shandong.png",山东卫视
+https://stream.iptv-search.com/main.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86&t=1752825547&token=d7265aca4c3b1ec8b38458620c2fa34b
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Shanxi_.png",山西卫视
+https://stream.iptv-search.com/main.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1752825547&token=8cf02b38e09c247e5fb2cca684057393
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Guangdong.png",广东卫视
+https://stream.iptv-search.com/main.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&t=1752825547&token=4d729a09aef8fe3406d2f9cb190b3911
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Guangxi.png",广西卫视
+https://stream.iptv-search.com/main.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1752825547&token=0af7f232aa7c0586d45b462255df8fc0
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Xinjiang.png",新疆卫视
+https://stream.iptv-search.com/main.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86&t=1752825547&token=1c2ccfffc996ac219095c13bdc88327b
+#EXTINF:-1  group-title="mylist" tvg-logo="",星空衛視 (576p)
+https://stream.iptv-search.com/main.php?id=%E6%98%9F%E7%A9%BA%E8%A1%9B%E8%A6%96+%28576p%29&t=1752825547&token=8865e905b37002781c3246a21765577d
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Jiangsu.png",江苏卫视
+https://stream.iptv-search.com/main.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&t=1752825547&token=722ab1416fc4798b0ad6e763be7ec785
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Jiangxi.png",江西卫视
+https://stream.iptv-search.com/main.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1752825547&token=57baf05f89bcb54a11eeedff49c2eaf1
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Hebei.png",河北卫视
+https://stream.iptv-search.com/main.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86&t=1752825547&token=fb1ab384144ff5d08ba92ebdc957bcb1
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Henan.png",河南卫视
+https://stream.iptv-search.com/main.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&t=1752825547&token=90a804cd22d8842a0b2a5cbbff465d9e
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Zhejiang.png",浙江卫视
+https://stream.iptv-search.com/main.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&t=1752825547&token=e830d0d6cebaf2749dbce897f0a69f08
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Hainan.png",海南卫视
+https://stream.iptv-search.com/main.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&t=1752825547&token=4f9b5378efc365a1ce155ca2d94a3dea
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Haixia.png",海峡卫视
+https://stream.iptv-search.com/main.php?id=%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86&t=1752825547&token=ff2562dc0e9d256caa7ba32f065820b8
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Shenzhen.png",深圳卫视
+https://stream.iptv-search.com/main.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&t=1752825547&token=de4b3b4cd0f52edf70733668f783c0c0
+#EXTINF:-1  group-title="mylist" tvg-logo="",深圳卫视4K
+https://stream.iptv-search.com/main.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K&t=1752825547&token=c87ef4f565bf1af79da878cc0496d9d4
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Hubei.png",湖北卫视
+https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&t=1752825547&token=d38b42e5216c93a5d10780116cf68542
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Hunan.png",湖南卫视
+https://stream.iptv-search.com/main.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&t=1752825547&token=b2eb1a60b09df5c7a59480c9e84c0825
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Gansu.png",甘肃卫视
+https://stream.iptv-search.com/main.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86&t=1752825547&token=3b0dbc0c4ac8f74d80ae2eb91604f13b
+#EXTINF:-1  group-title="mylist" tvg-logo="",福建东南卫视
+https://stream.iptv-search.com/main.php?id=%E7%A6%8F%E5%BB%BA%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86&t=1752825547&token=2b37ab14b243f27a5a60f137dfd7e7d5
+#EXTINF:-1  group-title="mylist" tvg-logo="",莲花卫视
+https://stream.iptv-search.com/main.php?id=%E8%8E%B2%E8%8A%B1%E5%8D%AB%E8%A7%86&t=1752825547&token=5d2a9b7d556a0148260168aa2a2ce43f
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Xizang.png",西藏卫视
+https://stream.iptv-search.com/main.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86&t=1752825547&token=940e1f274317034926413879e147de14
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Guizhou.png",贵州卫视
+https://stream.iptv-search.com/main.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86&t=1752825547&token=a78861860ecad025bbaafcd08e320019
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Liaoning.png",辽宁卫视
+https://stream.iptv-search.com/main.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&t=1752825547&token=306b0d612f06ad7bfa3a6786e7fa7273
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Chongqing.png",重庆卫视
+https://stream.iptv-search.com/main.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86&t=1752825547&token=f4c2be046cbc4f007e03bdba10b41453
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Shanxi.png",陕西卫视
+https://stream.iptv-search.com/main.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&t=1752825547&token=51b73b55592b50023d01fc5b8874ecf6
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Qinghai.png",青海卫视
+https://stream.iptv-search.com/main.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&t=1752825547&token=a3a713ccefe5b128cb206a6fc9805a4f
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Heilongjiang.png",黑龙江卫视
+https://stream.iptv-search.com/main.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86&t=1752825547&token=59a601a79bda98a4603796b7c3f00e1f
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Neimeng.png",内蒙古卫视
+https://stream.iptv-search.com/main.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&t=1752825547&token=664f8ed3df03d219219e399f2fc408e2
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Guangdong10.png",大湾区卫视
+https://stream.iptv-search.com/main.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&t=1752825547&token=bbe22ba92ac323b3be216f90145c8f24
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Yanbian.png",延边卫视
+https://stream.iptv-search.com/main.php?id=%E5%BB%B6%E8%BE%B9%E5%8D%AB%E8%A7%86&t=1752825547&token=9e348ba509f31bc1577a6018e36e0ec7
+#EXTINF:-1  group-title="mylist" tvg-logo="https://iptv-search.com/static/channellogo/img/Xiamen.png",厦门卫视
+https://stream.iptv-search.com/main.php?id=%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86&t=1752336258&token=141ff8a4a2f5b8d7fca73fe65cbe0f65
